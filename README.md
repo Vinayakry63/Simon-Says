@@ -2,12 +2,15 @@ A simple memory-based game built with HTML, CSS, and JavaScript.
 The goal is to repeat a sequence of colors shown by the game.
 Each round adds a new color to the sequence, making it more challenging as you go.
 
- Tech Stack
+
+Tech Stack
 HTML – for structure
 
 CSS – for styling and animations
 
 JavaScript – for game logic using DOM manipulation
+
+
 
 🕹 How to Play
 Press any key to start the game.
